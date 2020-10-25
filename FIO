@@ -1,0 +1,11 @@
+#include "FIO.h"
+
+FIO::FIO()
+{
+    //ctor
+}
+
+FIO::~FIO()
+{
+    //dtor
+}
