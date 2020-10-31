@@ -1,3 +1,4 @@
+// тест
 #pragma once
 
 #include <string>
@@ -18,5 +19,4 @@ public:
         this->dateOfBirth = dateOfBirth;
         this->pathToPhoto = pathToPhoto;
     }
-
 };
